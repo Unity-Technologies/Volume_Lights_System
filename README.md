@@ -2,6 +2,8 @@
 
 The purpose of this project is to demonstrate how URP's "DepthNormals" prepass can be used to render approximated point lights using specially-shaded meshes instead of actual lights.  This effect is especially useful for adding exaggerated stylized lighting.
 
+![Image of selected Area Lights in a dark scene.](README_RESOURCES/VolumeLightsSystem_Preview.png)
+
 ## Notable Included Assets
 
 - A prefab which can be added to scenes to create Volume Lights
