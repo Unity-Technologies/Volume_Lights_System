@@ -1,0 +1,16 @@
+# For more information about the available options please visit: http://go/backstage (VPN required)
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    github.com/project-slug: Unity-Technologies/Volume_Lights_System
+  name: Volume_Lights_System
+  description: "This project demonstrates how URP's DepthNormals prepass can be used to create mesh-volume-based lights; that is, the illusion of simple lighting rendered on the backfaces of box meshes placed in a scene."
+  labels:
+    costcenter: "1047"
+  tags:
+    - planned-public
+spec:
+  type: other
+  lifecycle: experimental
+  owner: unity-technologies/accelerate-solutions-hackweek
